@@ -12,7 +12,7 @@ The user is currently forced to spend too much time scrolling through StreamLine
 StreamLine is losing its edge in discovery as high-value viewers overwhelmed by its massive library are spending more time searching elsewhere for something worth watching, putting engagement, loyalty, and market position at risk.
 
 ## Value proposition
-For High-value StreamLine viewers who care about discovering quality, curated cinema., we will Give them a trusted, effortless way to discover great movies without having to sift through thousands of titles or search elsewhere. because Engagement has plateaued, churn is rising, and specialized competitors are winning viewers with more curated discovery experiences..
+For High-value StreamLine viewers who care about discovering quality, curated cinema, we will give them a trusted, effortless way to discover great movies without having to sift through thousands of titles or search elsewhere. because Engagement has plateaued, churn is rising, and specialized competitors are winning viewers with more curated discovery experiences.
 
 ## Cold-read self-review
 Yes. The business risk is high-stakes because engagement has plateaued, subscriber churn is rising, and specialized competitors are gaining ground with stronger discovery experiences. If the trend continues, StreamLine risks losing its competitive advantage and its most valuable viewers.
