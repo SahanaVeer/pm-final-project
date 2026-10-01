@@ -54,7 +54,7 @@ ul{padding-left:1.1rem}
   <h1>StreamLine Spotlight,<br><span class="or">A Personalised Discovery Rail</span></h1>
   <p class="lead">Turn an overwhelming home screen into 30-minute listening sessions with a Spotlight rail that tells each Explorer why they will love a title.</p>
   <div class="grid g2" style="max-width:900px">
-    <div class="card hero"><span class="lab" style="color:#fdba74">Presented by</span>Sahana Parameswarappa · Product Management Cohort · Jun 2026</div>
+    <div class="card hero"><span class="lab" style="color:#fdba74">Presented by</span> Sahana Parameswarappa · Product Management Cohort · Sep 2026</div>
     <div class="card"><span class="lab" style="color:var(--cy)">Repo</span><a href="https://github.com/SahanaVeer/pm-final-project/tree/main">github.com/SahanaVeer/pm-final-project</a></div>
   </div>
   <div><a class="btn" href="https://lovable.dev/projects/356b9207-61f6-4c57-b675-599cdd606953" target="_blank" rel="noopener">View prototype →</a></div>
